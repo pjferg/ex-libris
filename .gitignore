@@ -1,0 +1,4 @@
+.DS_Store
+# Keep source photos local unless deliberately added.
+images/inbox/*
+!images/inbox/.gitkeep
